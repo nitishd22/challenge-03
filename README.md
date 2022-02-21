@@ -34,18 +34,15 @@ THEN the password is either displayed in an alert or written to the page
 
 The following image demonstrates the application functionality:
 
-![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/03-javascript-homework-demo.png)
+![An app window with the label Password Generator, an input field labeled Your Secure Password, and a Generate Password button.](./Assets/images/03-javascript-homework-demo.png)
 
 ## Review
 
 You are required to submit the following for review:
+* Screenshot of working application: [screenshot of application](assets/images/application-screenshot.png)
 
-* The URL of the deployed application.
+* The URL of the deployed application: https://nitishd22.github.io/challenge-03/
 
-* The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
+* The URL of the GitHub repository: https://github.com/nitishd22/challenge-03
 
 - - -
-<<<<<<< HEAD
-=======
-
->>>>>>> bf73593fcada11270a907ec415aa5c93cf174925
