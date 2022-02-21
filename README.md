@@ -45,3 +45,7 @@ You are required to submit the following for review:
 * The URL of the GitHub repository. Give the repository a unique name and include a README describing the project.
 
 - - -
+<<<<<<< HEAD
+=======
+
+>>>>>>> bf73593fcada11270a907ec415aa5c93cf174925
