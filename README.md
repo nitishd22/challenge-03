@@ -39,7 +39,7 @@ The following image demonstrates the application functionality:
 ## Review
 
 You are required to submit the following for review:
-* Screenshot of working application: [screenshot of application](assets/images/application-screenshot.png)
+* Screenshot of working application: ![screenshot of application](Assets/images/application-screenshot.png)
 
 * The URL of the deployed application: https://nitishd22.github.io/challenge-03/
 
