@@ -41,8 +41,8 @@ The following image demonstrates the application functionality:
 You are required to submit the following for review:
 * Screenshot of working application: ![screenshot of application](Assets/images/application-screenshot.png)
 
-* The URL of the deployed application: https://nitishd22.github.io/challenge-03/
+* The URL of the deployed application: https://nitishd22.github.io/random-password-generator/
 
-* The URL of the GitHub repository: https://github.com/nitishd22/challenge-03
+* The URL of the GitHub repository: https://github.com/nitishd22/random-password-generator
 
 - - -
